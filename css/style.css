@@ -1,0 +1,18 @@
+body {
+  background-color:rgb(25, 21, 36);
+}
+
+.row {
+  height: 400px;
+}
+.container p {
+
+}
+
+.drk-row {
+  background-color:rgb(16, 13, 24);
+}
+
+.lt-row {
+  background-color:rgba(14, 14, 22, 0.973);
+}
