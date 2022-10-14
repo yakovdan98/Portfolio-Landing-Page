@@ -15,11 +15,14 @@ body {
   border-radius: 15px 15px 15px 15px;
 }
 .container p {
+  font-family: 'Courier New', Courier, monospace;
   color: white;
   margin: 0;
+
 }
 
 .container h2 {
+  font-family: 'Courier New', Courier, monospace;
   color: white;
   font-size: 1rem;
   margin-top: 5;
@@ -27,10 +30,17 @@ body {
 
 .container h1 {
   color: white;
+  font-family:'Courier New', Courier, monospace;
 }
 
 .container ul {
   color: white;
+  font-family:'Courier New', Courier, monospace;
+}
+
+.container ol{
+  color: white;
+  font-family:'Courier New', Courier, monospace;
 }
 
 .drk-row {
@@ -64,7 +74,6 @@ body {
 }
 
 .desc a:hover{
-  color: black;
   background-color: aliceblue;
   border-radius: 5px 5px 5px 5px;
   text-decoration: none;
@@ -81,6 +90,9 @@ body {
   
 }
 
+.abt-me h1{
+  text-align: center;
+}
 /* body {
   background-color: rgb(231, 228, 228);
 }
