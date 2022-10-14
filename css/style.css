@@ -1,18 +1,18 @@
 body {
-  background-color:rgb(25, 21, 36);
+  background-color:rgb(58, 57, 65);
 }
 
 .row {
   height: 400px;
 }
 .container p {
-
+  color: white;
 }
 
 .drk-row {
-  background-color:rgb(16, 13, 24);
+  background-color:rgb(27, 27, 36);
 }
 
 .lt-row {
-  background-color:rgba(14, 14, 22, 0.973);
+  background-color:rgba(30, 30, 43, 0.973);
 }
