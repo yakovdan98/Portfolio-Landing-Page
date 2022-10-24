@@ -22,12 +22,9 @@ a description of who I am and 3 links to click on.
 1. Open with link <https://yakovdan98.github.io/Portfolio-Landing-Page/>
 
 ## Application Setup Local
-1. clone repository with 
-> git clone https://github.com/yakovdan98/Portfolio-Landing-Page.git
-2. open with vs code using 
-> code Portfolio-Landing-Page
-3. open live server using the following shortcut:
-> alt + L alt + O
+1. clone repository to desktop
+2. navigate to the top level of the directory
+3. open index.html
 
 
 ## Known Bugs
